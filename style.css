@@ -1,0 +1,81 @@
+
+
+html {background-color: white;
+
+
+
+}
+
+
+body{ background-color: #feffff;
+    
+    margin: 0 auto;
+    width: 960px;
+    font-family: arial, helvetica, sans-serif;
+
+}
+
+a {
+    text-decoration: none;
+   
+    color: #373535;
+
+
+
+}
+/* Header/Blog Title */
+.header {
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    background: white;
+  }
+
+  
+  /* Add a card effect for articles */
+  .card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+
+
+
+
+
+
+/* Footer */
+.footer {
+    padding: 20px;
+    text-align:justify ;
+    background:#993333 ;
+    margin-top: 20px;
+  }
+
+
+
+
+
+li { display: inline;
+    padding: 10px;
+    font-size: 22px;
+
+    
+}
+    
+
+
+
+
+ul {
+    padding: 0;}
+    
+

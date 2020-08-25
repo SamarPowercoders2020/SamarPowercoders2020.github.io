@@ -25,6 +25,20 @@ a {
 
   }
 
+
+
+figure {
+  
+}
+figcaption {
+  font-style: italic;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+
+
 /* Header/Blog Title */
 .header {
     padding: 30px;
